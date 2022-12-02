@@ -1,0 +1,15 @@
+/Users/konstikowarsch/💻 FH /Advent-of-Code-2022/Day2/bin/Debug/net6.0/Day2
+/Users/konstikowarsch/💻 FH /Advent-of-Code-2022/Day2/bin/Debug/net6.0/Day2.deps.json
+/Users/konstikowarsch/💻 FH /Advent-of-Code-2022/Day2/bin/Debug/net6.0/Day2.runtimeconfig.json
+/Users/konstikowarsch/💻 FH /Advent-of-Code-2022/Day2/bin/Debug/net6.0/Day2.dll
+/Users/konstikowarsch/💻 FH /Advent-of-Code-2022/Day2/bin/Debug/net6.0/Day2.pdb
+/Users/konstikowarsch/💻 FH /Advent-of-Code-2022/Day2/obj/Debug/net6.0/Day2.csproj.AssemblyReference.cache
+/Users/konstikowarsch/💻 FH /Advent-of-Code-2022/Day2/obj/Debug/net6.0/Day2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/konstikowarsch/💻 FH /Advent-of-Code-2022/Day2/obj/Debug/net6.0/Day2.AssemblyInfoInputs.cache
+/Users/konstikowarsch/💻 FH /Advent-of-Code-2022/Day2/obj/Debug/net6.0/Day2.AssemblyInfo.cs
+/Users/konstikowarsch/💻 FH /Advent-of-Code-2022/Day2/obj/Debug/net6.0/Day2.csproj.CoreCompileInputs.cache
+/Users/konstikowarsch/💻 FH /Advent-of-Code-2022/Day2/obj/Debug/net6.0/Day2.dll
+/Users/konstikowarsch/💻 FH /Advent-of-Code-2022/Day2/obj/Debug/net6.0/refint/Day2.dll
+/Users/konstikowarsch/💻 FH /Advent-of-Code-2022/Day2/obj/Debug/net6.0/Day2.pdb
+/Users/konstikowarsch/💻 FH /Advent-of-Code-2022/Day2/obj/Debug/net6.0/Day2.genruntimeconfig.cache
+/Users/konstikowarsch/💻 FH /Advent-of-Code-2022/Day2/obj/Debug/net6.0/ref/Day2.dll
