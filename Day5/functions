@@ -1,0 +1,36 @@
+// get input and edit
+
+using System.Collections.Generic;
+
+namespace StringOperations
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            // The input string
+            string input = "Hello, world! 123";
+
+            // The list of numbers
+            var numbers = new List<int>();
+
+            // Iterate over each character in the string
+            foreach (char c in input)
+            {
+                // Check if the character is a digit
+                if (char.IsDigit(c))
+                {
+                    // Parse the character as an integer and add it to the list
+                    numbers.Add(int.Parse(c.ToString()));
+                }
+            }
+
+            // Print the numbers
+            Console.WriteLine("Numbers in the string:");
+            foreach (int number in numbers)
+            {
+                Console.WriteLine(number);
+            }
+        }
+    }
+}
